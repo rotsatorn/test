@@ -5,8 +5,6 @@
 	function minus(float $a, float $b) {
 		return $a - $b;
 	}
-	// echo plus(4, 5);
-	// echo minus(4, 5);
 ?>
 
 <br>
