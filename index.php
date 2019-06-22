@@ -1,1 +1,7 @@
-<?php echo 'test'; ?>
+<?php
+	function plus($a, $b) {
+		return $a + $b;
+	}
+	echo plus(4, 5);
+
+?>
