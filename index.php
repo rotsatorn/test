@@ -2,7 +2,7 @@
 	function plus($a, $b) {
 		return $a + $b;
 	}
-	function minus($a, $b) {
+	function minus(int $a, int $b) {
 		return $a - $b;
 	}
 	// echo plus(4, 5);
